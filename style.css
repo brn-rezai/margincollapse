@@ -25,3 +25,6 @@
 .color5 {
     background-color: hsl(59, 95%, 49%);
 }
+.parent {
+    margin: 50px;
+}
