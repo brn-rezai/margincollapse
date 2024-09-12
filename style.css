@@ -14,10 +14,12 @@
 
 .color3 {
     background-color: rgb(248, 9, 176);
+    margin: 5px;
 }
 
 .color4 {
     background-color: rgba(248, 9, 176, 0.5);
+    margin: 10px;
 }
 
 .color5 {
